@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityanayak20&label=Profile%20views&color=0e75b6&style=flat" alt="adityanayak20" /> </p>
 
-- 🔭 I’m currently working on **MERN with Next JS**
+- 🎓 I’m currently pursuing Masters at **BITS Pilani, Goa**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **NLP & LLM**
 
 - 👯 I’m looking to collaborate on **Developers & Entrepreneurs**
 
-- 🤝 I’m looking for help with **Real Time Social Toornament APP**
-
-- 📫 How to reach me **20anayak@gmail.com**
+- 📫 How to reach me **fxaditya20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
